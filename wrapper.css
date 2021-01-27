@@ -12,7 +12,6 @@ body {
   -moz-transition: 0.8s;
   -ms-transition: 0.8s;
   -o-transition: 0.8s;
-  transform: scale(1.1,1.1);
 }
 .wrapper {
   height: 100%;
